@@ -109,7 +109,6 @@ I:\VisualStudioDocument\C#\MovieWeb\MovieWeb\bin\zh-Hans\System.Web.Razor.resour
 I:\VisualStudioDocument\C#\MovieWeb\MovieWeb\bin\zh-Hans\System.Web.WebPages.resources.dll
 I:\VisualStudioDocument\C#\MovieWeb\MovieWeb\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
 I:\VisualStudioDocument\C#\MovieWeb\MovieWeb\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
-I:\VisualStudioDocument\C#\MovieWeb\MovieWeb\obj\Debug\MovieWeb.csprojAssemblyReference.cache
 I:\VisualStudioDocument\C#\MovieWeb\MovieWeb\obj\Debug\MovieWeb.csproj.CoreCompileInputs.cache
 I:\VisualStudioDocument\C#\MovieWeb\MovieWeb\obj\Debug\MovieWeb.csproj.CopyComplete
 I:\VisualStudioDocument\C#\MovieWeb\MovieWeb\obj\Debug\MovieWeb.dll
@@ -214,3 +213,4 @@ I:\VisualStudioDocument\C#\MovieWeb\MovieWeb\bin\Microsoft.Extensions.Dependency
 I:\VisualStudioDocument\C#\MovieWeb\MovieWeb\bin\Provider.dll
 I:\VisualStudioDocument\C#\MovieWeb\MovieWeb\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
 I:\VisualStudioDocument\C#\MovieWeb\MovieWeb\bin\Advantage.Data.Provider.dll
+I:\VisualStudioDocument\C#\MovieWeb\MovieWeb\obj\Debug\MovieWeb.csprojAssemblyReference.cache

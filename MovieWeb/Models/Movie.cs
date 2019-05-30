@@ -18,6 +18,10 @@ namespace MovieWeb.Models
         [StringLength(30, ErrorMessage = "×")]
         [Required(ErrorMessage = "×")]
         public string Type { get; set; }
+
+        [Display(Name = "电影名称")]
+        [StringLength(50, ErrorMessage = "×")]
+        public string Title { get; set; }
         /// <summary> 
         ///  作者 
         /// </summary> 
